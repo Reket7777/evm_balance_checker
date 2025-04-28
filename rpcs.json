@@ -1,0 +1,65 @@
+{
+  "ethereum": [
+    "https://eth.llamarpc.com",
+    "https://ethereum.blockpi.network/v1/rpc/public",
+    "https://eth.meowrpc.com",
+    "https://1rpc.io/eth"
+  ],
+  "arbitrum": [
+    "https://arbitrum-one-rpc.publicnode.com",
+    "https://arbitrum.drpc.org",
+    "https://1rpc.io/arb"
+  ],
+  "optimism": [
+    "https://optimism.drpc.org",
+    "https://1rpc.io/op"
+  ],
+  "base": [
+    "https://base.drpc.org",
+    "https://1rpc.io/base"
+  ],
+  "monad-testnet": [
+    "https://testnet-rpc.monad.xyz/"
+
+  ],
+  "sei": [
+    "https://sei.drpc.org",
+    "https://evm-rpc.sei-apis.com"
+  ],
+  "neon": [
+    "https://neon-mainnet.everstake.one",
+    "https://proxy.devnet.neonlabs.org/solana",
+    "https://neon-proxy-mainnet.solana.p2p.org"
+  ],
+  "taiko": [
+    "https://taiko-rpc.publicnode.com",
+    "https://taiko.drpc.org",
+    "https://rpc.taiko.xyz",
+    "https://rpc.ankr.com/taiko"
+  ],
+  "linea": [
+    "https://linea-rpc.publicnode.com",
+    "https://linea.drpc.org",
+    "https://1rpc.io/linea",
+    "https://rpc.linea.build"
+  ],
+  "scroll": [
+    "https://scroll.drpc.org",
+    "https://rpc.ankr.com/scroll"
+  ],
+  "ape": [
+    "https://rpc.apechain.com",
+    "https://apechain.drpc.org"
+  ],
+  "soneium": [
+    "https://rpc.soneium.org"
+  ],
+  "unichain": [
+    "https://unichain.drpc.org",
+    "https://unichain-rpc.publicnode.com"
+  ],
+  "ETH Sepolia": [
+    "https://eth-sepolia.public.blastapi.io",
+    "https://1rpc.io/sepolia"
+  ]
+}
